@@ -6,4 +6,6 @@ List of dependencies:
 3. matplotlib
 4. sklearn
 5. seaborn
+
+<p>More information about the project can be found in this website: </p>
   
